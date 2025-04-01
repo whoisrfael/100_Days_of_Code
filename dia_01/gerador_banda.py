@@ -1,4 +1,3 @@
-name = "Jack"
+banda = input("Digite o nome da sua Banda:")
 
-print(name)
-print(len(name))
+print(banda)
